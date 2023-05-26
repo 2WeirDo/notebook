@@ -4,26 +4,25 @@
 
 1. 创建远程仓库
 
-2. 在本地文件夹 git init 创建本地仓库
+2. 在本地文件夹 `git init` 创建本地仓库
 
 3. 修改代码
 
-4. git add .
+4. `git add .`
 
-5. git commit -m ""
+5. `git commit -m ""`
 
-6. git remote add origin <远程仓库地址>
+6. `git remote add origin <远程仓库地址>`
 
-7. git fetch
+7. `git fetch`
 
-8. git branch --set-upstream-to=origin/main
+8. `git branch --set-upstream-to=origin/main`
 
-9. git merge --allow-unrelated-histories
+9. `git merge --allow-unrelated-histories`
 
-10. git config push.default upstream
+10. `git config push.default upstream`
 
-11. git push
-
+11. `git push`
 
 
 
@@ -31,25 +30,23 @@
 
 > 简单许多了 --
 
-
-
 1. 创建远程仓库
 
-2. 在本地文件夹git init 创建本地仓库
+2. 在本地文件夹 `git init` 创建本地仓库
 
 3. 修改代码 
 
-4. git add .
+4. `git add .`
 
-5. git commit -m ""
+5. `git commit -m ""`
 
-6. git remote add origin <远程仓库地址>
+6. `git remote add origin <远程仓库地址>`
 
-7. git fetch
+7. `git fetch`
 
-8. git checkout main
+8. `git checkout main`
 
-9. git push
+9. `git push`
 
    
 
@@ -58,8 +55,8 @@
 > 没啥问题就用这个方案吧 !
 
 1. 创建一个远程仓库
-2. 在本地文件夹下 git clone <远程仓库地址>
+2. 在本地文件夹下 `git clone <远程仓库地址>`
 3. 修改代码
-4. git add .
-5. git commit -m ""
-6. git push
+4. `git add .`
+5. `git commit -m ""`
+6. `git push`
